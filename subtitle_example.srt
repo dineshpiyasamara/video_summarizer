@@ -1,0 +1,68 @@
+1
+00:00:00,240 --> 00:00:03,438
+Now when I go to unstructured format, we have log files here,
+
+2
+00:00:03,494 --> 00:00:06,710
+audio files, videos and images. So these are all considered
+
+3
+00:00:06,750 --> 00:00:10,278
+as unstructured files and sorrel. It is
+
+4
+00:00:10,334 --> 00:00:13,774
+also because of the speed of accumulation of all this variety
+
+5
+00:00:13,822 --> 00:00:16,838
+of data altogether, which brings us to our third
+
+6
+00:00:16,894 --> 00:00:20,290
+v which is velocity. So if you look here earlier we were.
+
+7
+00:00:20,830 --> 00:00:24,846
+Now let's focus on the diagram. So here you can notice that the hard
+
+8
+00:00:24,878 --> 00:00:28,234
+disk capacity is increasing but the disk transfer
+
+9
+00:00:28,282 --> 00:00:32,154
+performance or speed is not. Speed is not a lot of data.
+
+10
+00:00:32,322 --> 00:00:36,154
+And when you talk about people generating data or Internet reshma,
+
+11
+00:00:36,202 --> 00:00:39,826
+the one kind of application that strikes first in my mind is social media.
+
+12
+00:00:39,938 --> 00:00:43,546
+So you tell me. You tell me. You tell me. You tell me.
+
+13
+00:00:43,658 --> 00:00:46,986
+Thank you and have a great day. I hope you
+
+14
+00:00:47,018 --> 00:00:50,154
+enjoyed listening to this video. Please be kind enough to like it and you
+
+15
+00:00:50,162 --> 00:00:52,978
+can comment any of your doubts and queries and we will reply to them at
+
+16
+00:00:52,994 --> 00:00:55,538
+the reply to them at the reply to them at the reply to them at
+
+17
+00:00:55,554 --> 00:00:57,330
+the reply to them at the reply to them at the.
+
